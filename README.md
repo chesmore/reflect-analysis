@@ -1,4 +1,4 @@
-[![Code Grade](https://www.code-inspector.com/project/20570/score/svg)](https://frontend.code-inspector.com/public/project/20570/reflect-analysis/dashboard)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 # reflect-analysis
 
